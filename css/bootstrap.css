@@ -526,7 +526,7 @@ pre {
   display: block;
   font-size: 87.5%;
   color: #212529;
-}
+}.d-none .d-sm-block
 
 pre code {
   font-size: inherit;
@@ -549,7 +549,7 @@ pre code {
 
 @media (min-width: 576px) {
   .container {
-    max-width: 540px;
+    max-width: 100%;
   }
 }
 
@@ -4345,6 +4345,7 @@ input[type="button"].btn-block {
   -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  width: 100%;
 }
 
 .navbar .container,
