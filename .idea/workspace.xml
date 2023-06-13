@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e80584-fa40-4755-b26f-0bfbbdadee99" name="Changes" comment="copyrights">
+    <list default="true" id="d7e80584-fa40-4755-b26f-0bfbbdadee99" name="Changes" comment="about info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/service.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686667690479</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="about info">
+      <created>1686669737186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686669737186</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +130,7 @@
     <MESSAGE value="second change" />
     <MESSAGE value="initial" />
     <MESSAGE value="copyrights" />
-    <option name="LAST_COMMIT_MESSAGE" value="copyrights" />
+    <MESSAGE value="about info" />
+    <option name="LAST_COMMIT_MESSAGE" value="about info" />
   </component>
 </project>
